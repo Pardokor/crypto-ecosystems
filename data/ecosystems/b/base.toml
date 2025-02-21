@@ -5365,3 +5365,6 @@ url = "https://github.com/zuni-lab/zuni-smart-vault"
 [[repo]]
 url = "https://github.com/zwergdev/whale-bridge"
 missing = true
+
+[[repo]]
+url = "https://github.com/Pardokor/test"
